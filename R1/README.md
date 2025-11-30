@@ -9,7 +9,7 @@ Pré-requisito: Node.js instalado.
 No Linux/bash, execute:
 
 ```bash
-node src/avengers.js
+node R1/src/avengers.js
 ```
 
 A saída mostrará, para cada par de personagens:
@@ -17,4 +17,4 @@ A saída mostrará, para cada par de personagens:
 - Quem vence em velocidade, força e resistência (ou empate)
 
 ## Estrutura
-- `src/avengers.js`: Implementação dos personagens, agrupamento e lógica de comparação.
+- `R1/src/avengers.js`: Implementação dos personagens, agrupamento e lógica de comparação.
