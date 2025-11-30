@@ -1,0 +1,13 @@
+{
+  "name": "r5-sistema-uml-modular",
+  "version": "1.0.0",
+  "description": "Sistema de empresa baseado em diagrama UML com arquitetura modular",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": ["uml", "modules", "es6", "architecture"],
+  "author": "",
+  "license": "MIT"
+}
