@@ -1,1 +1,0 @@
-{"version":3,"file":"multiplicacao.d.ts","sourceRoot":"","sources":["../src/multiplicacao.ts"],"names":[],"mappings":"AAGA,OAAO,OAAO,MAAM,cAAc,CAAC;AAEnC,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,OAAO;IACzC,QAAQ,CAAC,OAAO,EAAE,MAAM,EAAE,OAAO,EAAE,MAAM,GAAG,MAAM;CAG1D"}

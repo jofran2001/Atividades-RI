@@ -1,5 +1,0 @@
-import Calculo from './calculo.js';
-export default class Potenciacao extends Calculo {
-    calcular(numero1: number, numero2: number): number;
-}
-//# sourceMappingURL=potenciacao.d.ts.map

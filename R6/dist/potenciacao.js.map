@@ -1,1 +1,0 @@
-{"version":3,"file":"potenciacao.js","sourceRoot":"","sources":["../src/potenciacao.ts"],"names":[],"mappings":"AAAA,wBAAwB;AACxB,kEAAkE;AAElE,OAAO,OAAO,MAAM,cAAc,CAAC;AAEnC,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,OAAO;IACvC,QAAQ,CAAC,OAAe,EAAE,OAAe;QAC9C,OAAO,IAAI,CAAC,GAAG,CAAC,OAAO,EAAE,OAAO,CAAC,CAAC;IACpC,CAAC;CACF"}

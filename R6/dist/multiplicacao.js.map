@@ -1,1 +1,0 @@
-{"version":3,"file":"multiplicacao.js","sourceRoot":"","sources":["../src/multiplicacao.ts"],"names":[],"mappings":"AAAA,0BAA0B;AAC1B,iDAAiD;AAEjD,OAAO,OAAO,MAAM,cAAc,CAAC;AAEnC,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,OAAO;IACzC,QAAQ,CAAC,OAAe,EAAE,OAAe;QAC9C,OAAO,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;CACF"}
