@@ -1,0 +1,20 @@
+{
+  "name": "r6-calculadora-polimorfica",
+  "version": "1.0.0",
+  "description": "Calculadora com polimorfismo, classes abstratas e TypeScript",
+  "type": "module",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/app.js",
+    "test": "npm run build && node dist/teste.js",
+    "dev": "tsc && node dist/app.js"
+  },
+  "keywords": ["typescript", "polymorphism", "abstract-class", "cli"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

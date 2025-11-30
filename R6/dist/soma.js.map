@@ -1,0 +1,1 @@
+{"version":3,"file":"soma.js","sourceRoot":"","sources":["../src/soma.ts"],"names":[],"mappings":"AAAA,iBAAiB;AACjB,iCAAiC;AAEjC,OAAO,OAAO,MAAM,cAAc,CAAC;AAEnC,MAAM,CAAC,OAAO,OAAO,IAAK,SAAQ,OAAO;IAChC,QAAQ,CAAC,OAAe,EAAE,OAAe;QAC9C,OAAO,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;CACF"}
