@@ -1,0 +1,13 @@
+{
+  "name": "r4-sistema-modular",
+  "version": "1.0.0",
+  "description": "Sistema de empresa com módulos ES6 (import/export)",
+  "type": "module",
+  "main": "src/teste.js",
+  "scripts": {
+    "start": "node src/teste.js"
+  },
+  "keywords": ["es6", "modules", "classes"],
+  "author": "",
+  "license": "MIT"
+}
